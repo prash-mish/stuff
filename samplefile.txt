@@ -1,3 +1,5 @@
 Doing handon over Git
 
 Watching tutorial on telusko
+
+This is a Youtube C=channel by Navin Reddy
